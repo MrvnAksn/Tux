@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dictionnaire
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xmlns='http://univ-grenoble-alpes.fr/dico'
+    xsi:schemaLocation='http://univ-grenoble-alpes.fr/dico file:/home/marvin/Documents/TuxLetterGame/src/management/dico.xsd'>
+    
+    <word level='2'>bonjour</word>
+    <word level='3'>monument</word>
+    <word level='1'>nuit</word>
+    <word level='4'>physique</word>
+    <word level='1'>date</word>
+    <word level='1'>mois</word>
+    <word level='1'>année</word>
+    <word level='4'>araignée</word>
+    <word level='5'>sybillin</word>
+    <word level='5'>chronophage</word>
+    <word level='2'>moteur</word>
+    <word level='3'>voiture</word>
+    <word level='2'>mot</word>
+    <word level='2'>voleur</word>
+    <word level='1'>stylo</word>
+    <word level='1'>car</word>
+    <word level='5'>anticonstitutionnellement</word>
+    <word level='5'>anthropologue</word>
+    <word level='1'>pot</word>
+    <word level='1'>vrai</word>
+    <word level='2'>macon</word>
+    <word level='2'>colle</word>
+    <word level='1'>col</word>
+    <word level='3'>beignet</word>
+    <word level='2'>crayon</word>
+    <word level='3'>trone</word>
+    <word level='2'>tige</word>
+    <word level='3'>couleur</word>
+</dictionnaire>
+ 

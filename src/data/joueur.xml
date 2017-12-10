@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><profile xmlns="http://myGame/profile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://myGame/profile file:/home/marvin/Documents/TuxLetterGame/src/data">
+    <name>Marvin</name>
+    <avatar>4</avatar>
+    <birthday>1995-03-04</birthday>
+    <games>
+        <game date="2017-11-30">
+            <time>56</time>
+            <word level="1">mot</word>
+        </game>
+        <game date="2017-12-04" found="14">
+            <time>8</time>
+            <word level="3">beignet</word>
+        </game>
+        <game date="2017-12-08" found="4">
+            <time>9</time>
+            <word level="2">colle</word>
+        </game>
+        <game date="2017-12-08" found="12">
+            <time>6</time>
+            <word level="5">chronophage</word>
+        </game>
+    <game date="2017-12-10">
+        <time>27</time>
+        <word level="1">col</word>
+    </game>
+    <game date="2017-12-10">
+        <time>37</time>
+        <word level="5">sybillin</word>
+    </game>
+    <game date="2017-12-10">
+        <time>59</time>
+        <word level="1">col</word>
+    </game>
+    </games>
+</profile>
