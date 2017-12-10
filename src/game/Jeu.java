@@ -26,7 +26,7 @@ public class Jeu {
         // method as the game loop
         env = new Env();
         // Sets up the camera
-        env.setCameraPitch(-38);
+        env.setCameraPitch(-30);
         // Turn off the default controls
         env.setDefaultControl(false);
         //initialize
@@ -40,7 +40,7 @@ public class Jeu {
         // method as the game loop
         env = new Env();
         // Sets up the camera
-        env.setCameraPitch(-38);
+        env.setCameraPitch(-30);
         // Turn off the default controls
         env.setDefaultControl(false);
         //initialisation dictionnaire
@@ -73,7 +73,7 @@ public class Jeu {
             env.setDisplayStr("Choisissez la liste des modes de jeux disponible : \n"
                             + "0/ Quitter\n"
                             + "1/ Devine le mot\n"
-                            + "2/ Devine le mot avec surplus\n");
+                            + "2/ Devine le mot avec lettres en plus\n");
             env.setCameraXYZ(00, 30, -50);
             env.advanceOneFrame();
             
@@ -123,7 +123,7 @@ public class Jeu {
                     }
                     env.setDisplayStr("");
                     env.setRoom(room);
-                    env.setCameraXYZ(20, 30, 65);
+                    env.setCameraXYZ(20, 30, 75);
                     //jeu selon le niveau choisi précedemment
                     switch (niveau){
                         //niveau = 1

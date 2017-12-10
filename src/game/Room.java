@@ -21,12 +21,14 @@ public class Room {
     public String textureSouth;
     
     public Room(){
+        this.textureBottom = "/textures/floor.png";
+        this.textureNorth = "/textures/skybox/default/north.png";
+        this.textureEast = "/textures/skybox/default/east.png";
+        this.textureWest = "/textures/skybox/default/west.png";
+        this.textureSouth = null;
+        this.textureTop = null;
         this.depth = 50;
-        this.height = 50;
         this.width = 40;
-        this.textureBottom = "textures/fantasy/bottom.png";
-        this.textureNorth = "textures/fantasy/north.png";
-        this.textureEast= "textures/fantasy/east.png";
-        this.textureWest = "textures/fantasy/west.png";
+        this.height = 50;
     }
 }

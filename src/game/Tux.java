@@ -11,7 +11,7 @@ public class Tux extends EnvObject {
         setX(x);
         setY(y);
         setZ(z);
-        setScale(1);
+        setScale(2);
         setTexture("models/tux/tux.png");
         setModel("models/tux/tux.obj");
     }
